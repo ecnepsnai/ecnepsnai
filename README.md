@@ -1,8 +1,3 @@
 ### Hi there 👋
 
-- 🔭 **I’m currently working on**: Always working on https://github.com/tls-inspector, also my various Go libraries
-- 🌱 **I’m currently learning**: React.js (for the web).
-- 💬 **Ask me about**: Web PKI, TLS, and OpenSSL!
-- 📫 **How to reach me**: Please see https://ianspence.com
-- 😄 **Pronouns**: He/Him/His
-- ⚡ **Fun fact**: I've been described as a _"Hauntingly Bad"_ developer
+I'm Ian, an enterprise systems administrator & information security professional based in Vancouver, British Columbia, Canada. I am the creator and developer of TLS Inspector: a free & open source iOS app trusted by thousands across the world to help protect their privacy online.
