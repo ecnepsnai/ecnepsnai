@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-I'm Ian, an enterprise systems administrator & information security professional based in Vancouver, British Columbia, Canada. I am the creator and developer of TLS Inspector: a free & open source iOS app trusted by thousands across the world to help protect their privacy online.
+I'm Ian, a site reliability engineer and information security professional based in Vancouver, British Columbia, Canada. I'm the creator of TLS Inspector, DNS Inspector, Otto, and many other tools.
+
+Please feel free to explore my projects and contribute!
+
+Do not contact me regarding employment opportunities.
