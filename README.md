@@ -4,4 +4,4 @@ I'm Ian, a site reliability engineer and information security professional based
 
 Please feel free to explore my projects and contribute!
 
-Do not contact me regarding employment opportunities.
+**Do not contact me regarding employment opportunities.**
